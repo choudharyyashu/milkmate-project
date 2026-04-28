@@ -2,7 +2,7 @@
 
 MilkMate is a web-based milk delivery management platform built for dairies, milkmen, and customers to streamline the process of milk distribution. It supports role-based login and operations like order tracking, customer management, product listings, and cart handling.
 
-**Live Site:** [https://milkmate.onrender.com](https://milkmate.onrender.com)
+**Live Site:** [https://milkmate-project.onrender.com](livelink)
 
 ---
 
